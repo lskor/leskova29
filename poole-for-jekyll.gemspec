@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "poole-for-jekyll"
   spec.version       = "3.0.0"
-  spec.authors       = ["Mark Otto"]
-  spec.email         = ["markdotto@gmail.com"]
+  spec.authors       = ["lskor"]
+  spec.email         = ["glory.web3@gmail.com"]
 
-  spec.summary       = "The Jekyll Butler. A no frills responsive Jekyll blog theme."
+  spec.summary       = "Лескова 29. Объявление."
   spec.homepage      = "https://getpoole.com"
   spec.license       = "MIT"
 

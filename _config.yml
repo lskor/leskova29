@@ -1,9 +1,9 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: Лескова 29
+tagline: Объявление
+url:
 paginate: 1
-baseurl: "http://lskor.github.io/poole/"
+baseurl: ""
 permalink: pretty
 
 # Gems
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
+  name: lskor
   url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  email: glory.web@gmail.com
 
 # Custom vars
 version: 3.0.0

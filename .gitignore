@@ -5,6 +5,7 @@ _site
 .sass-cache
 .jekyll-cache
 .idea
+Gemfile.lock
 
 # Numerous always-ignore extensions
 *.diff

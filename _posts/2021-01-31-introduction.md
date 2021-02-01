@@ -23,4 +23,4 @@ title: Выбираем совет дома
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/NF_Xhiw8W_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Спасибо, за внимание!
+Спасибо за внимание!

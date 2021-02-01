@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Archive
+title: Архив
 ---
 
-# Archive
+# Архив
 
-Browse all posts by month and year.
+Просматривайте все сообщения по месяцам и годам.
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}

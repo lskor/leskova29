@@ -3,7 +3,7 @@ title: Лескова 29
 tagline: Объявление
 url:
 paginate: 1
-baseurl: "/poole/"
+baseurl: ""
 
 # Gems
 plugins:

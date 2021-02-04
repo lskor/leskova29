@@ -19,8 +19,9 @@ title: Выбираем совет дома
 
 ## Не можете найти время занести бюллетень?
 
-Свяжитесь с нами любым удобным способом по телефону  [+7 913 987 5704](tel:+79139875704) (в том числе WhatsApp, Telegram, СМС) и мы заберём его сами.
+Свяжитесь с нами любым удобным способом по телефону:
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/NF_Xhiw8W_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[+7 913 987 5704](tel:+79139875704), а так же [WhatsApp](https://wa.me/79139875704), [Telegram](https://t.me/LidaSkr), [СМС](sms:+79139875704) и мы заберём его сами.
+
 
 Спасибо за внимание!

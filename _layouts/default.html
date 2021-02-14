@@ -18,9 +18,12 @@
       </main>
 
       <footer class="footer">
-        <small>
-          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. Created using Poole.
-        </small>
+        <div style = "display: flex; align-items: center;">
+          <small>&copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. Created using Poole.</small>
+          <a href="https://t.me/leskova29" style = "flex-grow: 1; display: flex; justify-content: flex-end;">
+            <img src="/assets/telegram.svg" width="32" height="32" alt="telegram" title="Наш канал в телеграмм">
+          </a>
+        </div>
       </footer>
     </div>
 

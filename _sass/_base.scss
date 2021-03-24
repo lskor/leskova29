@@ -69,3 +69,15 @@ mark {
   background-color: var(--yellow-100);
   border-radius: .125rem;
 }
+
+.char {
+    width: 21px;
+    height: 21px;
+    color: var(--gray-000);
+    background-color: var(--blue);
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    font-size: 0.75rem;
+    font-weight: 400;
+}

@@ -1,4 +1,4 @@
-# Leckova 29
+# Leskova 29
 
 Page of house Leskova 29
 

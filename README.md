@@ -1,6 +1,6 @@
 # Leckova 29
 
-Page of home Leskova 29
+Page of house Leskova 29
 
 -----
 

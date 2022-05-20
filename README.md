@@ -15,7 +15,7 @@ Created using [Poole](https://github.com/poole/poole)
 
 ## Author
 
-**Lidiya Skr**
+**Lidiia Skr**
 
 
 
